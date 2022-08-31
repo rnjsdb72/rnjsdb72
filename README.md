@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 |2021|NLP|인터넷 기사 분석을 통한 Kia의 주가 예측||
 |2021|머신러닝|온라인 행동 및 상품 분류 데이터를 활용한 성별/나이대 예측||
 |2021|딥러닝(음성)|음성 감정 분석을 통한 우울증 예측||
-|2022|추천시스템|A Vision Transformer Based Recommender System
-Using Side Information||
+|2022|추천시스템|A Vision Transformer Based Recommender System Using Side Information||
 |2022|딥러닝(음성)|||
 |2022||||
