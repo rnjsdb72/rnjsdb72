@@ -25,7 +25,7 @@ kyja4639@naver.com
 |2021|제 1회 CJ대한통운 미래기술 챌린지|우수상|<a href="https://github.com/rnjsdb72/competition/tree/master/2021%20CJ%EB%8C%80%ED%95%9C%ED%86%B5%EC%9A%B4%20%EB%AF%B8%EB%9E%98%EA%B8%B0%EC%88%A0%20%EC%B1%8C%EB%A6%B0%EC%A7%80" target="_blank">링크</a>|
 |2021|(주)플랫포머스 제 1회 산학연계공모전|대상|<a href="https://github.com/rnjsdb72/competition/tree/master/%EC%82%B0%ED%95%99%EC%97%B0%EA%B3%84%EA%B3%B5%EB%AA%A8%EC%A0%84(%ED%94%8C%EB%9E%AB%ED%8F%AC%EB%A8%B8%EC%8A%A4)" target="_blank">링크</a>|
 |2022|통계청 2022 통계데이터 인공지능 활용대회||<a href="https://github.com/rnjsdb72/competition/tree/master/%ED%86%B5%EA%B3%84%EC%B2%AD%202022%20%ED%86%B5%EA%B3%84%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%99%9C%EC%9A%A9%EB%8C%80%ED%9A%8C" target="_blank">링크</a>|
-|2022|제 7회 롯데멤버스 빅데이터 경진대회|수상확정|<a href="https://github.com/rnjsdb72/2022_LotteMembers_BigData_Competition" target="_blank">링크</a>|
+|2022|제 7회 롯데멤버스 빅데이터 경진대회||<a href="https://github.com/rnjsdb72/2022_LotteMembers_BigData_Competition" target="_blank">링크</a>|
 
 ### 💻 Project
 |연도|분류|프로젝트|링크|
