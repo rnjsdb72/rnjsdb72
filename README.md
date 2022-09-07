@@ -20,7 +20,7 @@ kyja4639@naver.com
 ### 🏆 Competition
 |연도|대회명|수상|링크|
 |-|-|-|-|
-|2021|해양수산 빅데이터 분석 경진대회|대상(해양수산수장관상)|<a href="https://github.com/rnjsdb72/competition/tree/master/2021%20%ED%95%B4%EC%96%91%EC%88%98%EC%82%B0%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C" target="_blank">링크</a>|
+|2021|해양수산 빅데이터 분석 경진대회|대상(해양수산부장관상)|<a href="https://github.com/rnjsdb72/competition/tree/master/2021%20%ED%95%B4%EC%96%91%EC%88%98%EC%82%B0%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C" target="_blank">링크</a>|
 |2021|LH 국토도시 데이터 경진대회(부산시 남구 주차 수요 예측)|입선|<a href="https://github.com/rnjsdb72/competition/tree/master/2021%20LH%20%EA%B5%AD%ED%86%A0%EB%8F%84%EC%8B%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C" target="_blank">링크</a>|
 |2021|제 1회 CJ대한통운 미래기술 챌린지|우수상|<a href="https://github.com/rnjsdb72/competition/tree/master/2021%20CJ%EB%8C%80%ED%95%9C%ED%86%B5%EC%9A%B4%20%EB%AF%B8%EB%9E%98%EA%B8%B0%EC%88%A0%20%EC%B1%8C%EB%A6%B0%EC%A7%80" target="_blank">링크</a>|
 |2021|(주)플랫포머스 제 1회 산학연계공모전|대상|<a href="https://github.com/rnjsdb72/competition/tree/master/%EC%82%B0%ED%95%99%EC%97%B0%EA%B3%84%EA%B3%B5%EB%AA%A8%EC%A0%84(%ED%94%8C%EB%9E%AB%ED%8F%AC%EB%A8%B8%EC%8A%A4)" target="_blank">링크</a>|
