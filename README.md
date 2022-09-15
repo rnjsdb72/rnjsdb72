@@ -3,7 +3,6 @@ kyja4639@naver.com
 
 ### 🙍🏻‍♂️ Profile
  <a href="https://www.instagram.com/jin_kwonu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/></a>
- <a href="https://lacy-peony-73c.notion.site/Portfolio-638d15830f12441fa7d6b1349412a9a1" target="_blank"><img src="https://img.shields.io/badge/Notion-yellow?style=flat&logo=Notion&logoColor=white"/></a>
 
 ### 🛠 Tech Stack
 <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-111111?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-111111?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-111111?style=flat&logo=MicrosoftExcel&logoColor=white"/> <img src="https://img.shields.io/badge/Github-111111?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-111111?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-111111?style=flat&logo=Slack&logoColor=white"/>
