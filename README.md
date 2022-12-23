@@ -30,7 +30,7 @@ kyja4639@naver.com
 |연도|분류|프로젝트|링크|
 |-|-|-|-|
 |2022|OpenSet, ActionRecognition|DREAM: Debiased Representation based Evidential open set Action recognition with Multi-modality|<a href="https://github.com/sy00n/DREAMCAP" target="_blank">링크</a>|
-|2022|TransferLearning, 음성합성|ZeroShot-Learning과 TTS를 활용한 내 목소리 합성|<a href="https://github.com/rnjsdb72/Conference" target="_blank">링크</a>|
+|2022|ZeroShotLearning, 음성합성|ZeroShot-Learning과 TTS를 활용한 내 목소리 합성|<a href="https://github.com/rnjsdb72/Conference" target="_blank">링크</a>|
 |2022|추천시스템|부가 정보를 활용한 비전 트랜스포머 기반의 추천시스템|<a href="https://github.com/rnjsdb72/ViT-with-ONCF-Framework" target="_blank">링크</a>|
 |2021|딥러닝(음성)|음성 감정 분석을 통한 우울증 예측||
 |2021|머신러닝|온라인 행동 및 상품 분류 데이터를 활용한 성별/나이대 예측|<a href="https://github.com/rnjsdb72/project/tree/main/D%26A%20ML%20Competition" target="_blank">링크</a>|
