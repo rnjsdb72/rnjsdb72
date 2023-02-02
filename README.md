@@ -1,6 +1,3 @@
-### 📬 E-mail
-kyja4639@naver.com
-
 ### 🙍🏻‍♂️ Profile
  <a href="https://www.instagram.com/jin_kwonu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/kyja4639@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/> <a href="https://velog.io/@rnjsdb72" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/>
 
