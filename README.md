@@ -33,8 +33,8 @@
 |2022|ZeroShotLearning, 음성합성|ZeroShot-Learning과 TTS를 활용한 내 목소리 합성|<a href="https://github.com/rnjsdb72/Conference" target="_blank">링크</a>|
 |2022|추천시스템|부가 정보를 활용한 비전 트랜스포머 기반의 추천시스템|<a href="https://github.com/rnjsdb72/ViT-with-ONCF-Framework" target="_blank">링크</a>|
 |2021|딥러닝(음성)|음성 감정 분석을 통한 우울증 예측||
-|2021|머신러닝|온라인 행동 및 상품 분류 데이터를 활용한 성별/나이대 예측|<a href="https://github.com/rnjsdb72/project/tree/main/D%26A%20ML%20Competition" target="_blank">링크</a>|
-|2021|머신러닝|백화점 데이터 기반 고객 나이 예측|<a href="https://github.com/rnjsdb72/project/tree/main/2021%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8" target="_blank">링크</a>|
-|2021|NLP|인터넷 기사 분석을 통한 Kia의 주가 예측|<a href="https://github.com/rnjsdb72/project/tree/main/2021%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%20%EA%B0%9C%EC%9D%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8" target="_blank">링크</a>|
+|2021|머신러닝|온라인 행동 및 상품 분류 데이터를 활용한 성별/나이대 예측||
+|2021|머신러닝|백화점 데이터 기반 고객 나이 예측||
+|2021|NLP|인터넷 기사 분석을 통한 Kia의 주가 예측||
 |2021|머신러닝|백화점 데이터 기반 고객 성별 예측||
-|2019|데이터분석|시니어 세대를 대상으로 한 마케팅 계획안|<a href="https://github.com/rnjsdb72/project/tree/main/2019%20%EB%B6%84%EC%84%9D%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8" target="_blank">링크</a>|
+|2019|데이터분석|시니어 세대를 대상으로 한 마케팅 계획안||
