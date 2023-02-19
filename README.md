@@ -1,4 +1,4 @@
-[![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnjsdb72&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnjsdb72&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rnjsdb72&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🙍🏻‍♂️ Profile
  <a href="https://www.instagram.com/jin_kwonu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/kyja4639@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/> <a href="https://velog.io/@rnjsdb72" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/>
