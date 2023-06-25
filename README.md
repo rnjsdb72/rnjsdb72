@@ -22,7 +22,7 @@
 |March 2018~April 2023|Bachelor(Minor, Secondary)|Kookmin Univ.|Data Science||
 
 ### 🏆 Awards
-|Date|Competition|Prize|Project Link|
+|Year|Competition|Prize|Project Link|
 |-|-|-|-|
 |2022|7th Lotte Members Big Data Competition|Grand Prize|<a href="https://github.com/rnjsdb72/2022_LotteMembers_BigData_Competition" target="_blank">Link</a>|
 |2021|1st Industry-Academia Cooperation Contest by Platformers|Grand Prize|<a href="https://github.com/rnjsdb72/competition/tree/master/%EC%82%B0%ED%95%99%EC%97%B0%EA%B3%84%EA%B3%B5%EB%AA%A8%EC%A0%84(%ED%94%8C%EB%9E%AB%ED%8F%AC%EB%A8%B8%EC%8A%A4)" target="_blank">Link</a>|
