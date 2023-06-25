@@ -13,7 +13,7 @@
 |July 2023 ~ |CJ Logistics|Data Analyst|Permanent Worker|
 |March 2023 ~ June 2023|Sidewalk Entertainment|AI Researcher|Intern|
 |January 2023 ~ February 2023|CJ Logistics|Data Analyst|Intern|
-|August 2022 ~ October 2022|AI.M|Data Analyst|Freelance|
+|August 2022 ~ October 2022|ai.m|Data Analyst|Freelance|
 
 ### 📝 Education
 |Dates Attended|Degree|Institution|Field of Study|Remarks|
